@@ -1,12 +1,13 @@
 Name: Ritchey&AI String To Base64
 Implementation: 2
-Version: 1
-Long Identifier: Ritchey&AI String To Base64 i2 v1
-Short Identifier: R&AISTBi2v1
+Version: 2
+Long Identifier: Ritchey&AI String To Base64 i2 v2
+Short Identifier: R&AISTBi2v2
 Description: An EXPERIMENTAL Javascript function for converting a string to Base64.
 History:
  - Project started June 14, 2024.
  - Version 1 completed June 14, 2024.
+ - Version 2 completed June 14, 2024.
 Author: James Daniel Marrs Ritchey
 Licensing: This project is hereby licensed under the Ritchey Permissive License v16.
 Notes:
