@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Example</title>
+</head>
+<body>
+<div id='output'>Click here to encode this text in Base64.</div>
+<script src="function.js"></script>
+<script>
+document.querySelector("#output").addEventListener("click", function() {
+    const element = document.querySelector("#output");
+    if (element) {
+        const result = stringToBase64(element.innerHTML);
+        element.innerHTML = result;
+    }
+});
+</script>
+</body>
+</html>
